@@ -1,0 +1,20 @@
+
+
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+}
+
+
+
+
+@media (max-width: 450px) {
+    #Quiz button, #discussionForm button{
+        width: 100%;
+    }
+   
+}
